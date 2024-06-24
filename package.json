@@ -1,15 +1,15 @@
 {
   "name": "codeimg_js",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "A lightweight and versatile JavaScript plugin designed to automatically generate random verification codes (commonly known as captchas) for enhanced security in web forms and user authentication processes. It allows customization of code length, character set (including alphanumeric, special characters), and expiration time, ensuring seamless integration into various web applications.",
   "main": "./src/index.js",
   "types": "./src/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "github": {
+  "repository": {
     "type": "git",
-    "url": "git+https://github.com/YunLuo0131/CodeImg.git"
+    "url": "https://github.com/YunLuo0131/CodeImg.git"
   },
   "keywords": [
     "codeImg",
